@@ -208,3 +208,16 @@ body {
     text-align: center;
     text-decoration: none;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 20px;
+    flex: 1 0 auto;
+}
